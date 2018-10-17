@@ -1,15 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
-VisualStudioVersion = 15.0.28010.2041
+VisualStudioVersion = 15.0.28010.2046
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTestWizard", "UnitTestWizard\UnitTestWizard.csproj", "{1A667B36-6D96-41E5-9098-67419BF64A8A}"
-EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{770A0EB4-0C54-4644-A347-B933D8FACA88}"
-	ProjectSection(SolutionItems) = preProject
-		CHANGELOG.md = CHANGELOG.md
-		README.md = README.md
-	EndProjectSection
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTestWizard", "UnitTestWizard.csproj", "{8A212DC9-C9FC-488E-94E6-FD7CD274D8D4}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{1A667B36-6D96-41E5-9098-67419BF64A8A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{1A667B36-6D96-41E5-9098-67419BF64A8A}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{1A667B36-6D96-41E5-9098-67419BF64A8A}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{1A667B36-6D96-41E5-9098-67419BF64A8A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8A212DC9-C9FC-488E-94E6-FD7CD274D8D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8A212DC9-C9FC-488E-94E6-FD7CD274D8D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8A212DC9-C9FC-488E-94E6-FD7CD274D8D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8A212DC9-C9FC-488E-94E6-FD7CD274D8D4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {69605589-A4E9-414A-BD12-7FFED11D40AB}
+		SolutionGuid = {53C41640-D8A0-4113-9B63-2B351B059891}
 	EndGlobalSection
 EndGlobal
